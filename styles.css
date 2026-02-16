@@ -556,7 +556,8 @@ img {
 }
 
 .slide-media.print-two {
-  background-image: url("assets/logo.png");
+  background-image: url("assets/banner1.jpg
+    ");
 }
 
 .slider-btn {
@@ -788,3 +789,4 @@ img {
     font-size: 0.8rem;
   }
 }
+

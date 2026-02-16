@@ -1,5 +1,5 @@
 const waMessage =
-  "Halo Arsana Printing, saya ingin pesan layanan percetakan (segala jenis print, undangan, buku yasin, atau print laporan).";
+  "Halo Arsana Printing, saya ingin pesan layanan percetakan";
 const waLink = `https://wa.me/6285134761461?text=${encodeURIComponent(waMessage)}`;
 
 const setWhatsAppLinks = () => {
@@ -91,3 +91,4 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 window.addEventListener("load", hideLoader);
+

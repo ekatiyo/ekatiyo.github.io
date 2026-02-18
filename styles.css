@@ -505,7 +505,7 @@ img {
 
 .about-card {
   background: rgba(91, 176, 229, 0.12);
-  padding: 28px;
+  padding: 18px;
   border-radius: var(--radius);
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
 }
@@ -895,3 +895,4 @@ img {
     font-size: 0.8rem;
   }
 }
+
